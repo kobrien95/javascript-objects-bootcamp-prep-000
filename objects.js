@@ -1,7 +1,7 @@
 var playlist = { Kanye: "Stronger" };
-function updatedPlaylist(){
-  return 'Hey Mama'
+function updatedPlaylist(name){
+  return [Hey Mama, ...Kanye]
 }
-function removeFromPlaylist(){
-  
+function removeFromPlaylist(name){
+  return 
 }
